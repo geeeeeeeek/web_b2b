@@ -79,11 +79,15 @@ python manage.py runserver
 ```
 npm install 
 ```
-(2) 构建项目
+(2) 修改.env配置
+
+修改.env文件中的域名，改成你自己的域名。
+
+(3) 构建项目
 ```
 npm run build
 ```
-(3) 运行
+(4) 运行
 ```
 npm run start
 ```

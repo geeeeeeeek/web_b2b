@@ -51,3 +51,33 @@ Forbidden: /myapp/admin/overview/count
 "GET /myapp/index/home/section HTTP/1.1" 200 4959
 "GET /myapp/index/thing/section?page=1&pageSize=9&searchQuery= HTTP/1.1" 200 3521
 "GET /myapp/index/thing/section?page=1&pageSize=9 HTTP/1.1" 200 3521
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\git_workspace\web_b2b\server\server\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /myapp/index/common/section HTTP/1.1" 200 4265
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/common/section HTTP/1.1" 200 4265
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/common/section HTTP/1.1" 200 4265
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/common/section HTTP/1.1" 200 4265
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/common/section HTTP/1.1" 200 4265
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/common/section HTTP/1.1" 200 4265
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/common/section HTTP/1.1" 200 4265
+"GET /myapp/index/common/section HTTP/1.1" 200 4265
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/home/section HTTP/1.1" 200 4959
+"GET /myapp/index/common/section HTTP/1.1" 200 4265
+"GET /myapp/index/thing/section?page=1&pageSize=9 HTTP/1.1" 200 3521
+"GET /myapp/index/thing/section?page=1&pageSize=12&searchQuery= HTTP/1.1" 200 3937
+"GET /myapp/index/about/section HTTP/1.1" 200 4216

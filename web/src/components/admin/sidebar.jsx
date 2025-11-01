@@ -34,7 +34,21 @@ const items = [
   //   label: '关于管理',
   //   icon: <ProductOutlined />,
   // },
-
+  {
+    key: '/admin/case',
+    label: '案例管理',
+    icon: <FunnelPlotOutlined />,
+  },
+  {
+    key: '/admin/download',
+    label: '下载管理',
+    icon:  <DownloadOutlined />,
+  },
+  {
+    key: '/admin/faq',
+    label: 'FAQ管理',
+    icon: <CompassOutlined />,
+  },
   {
     key: '/admin/inquiry',
     label: '询盘管理',

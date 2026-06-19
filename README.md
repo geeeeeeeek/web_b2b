@@ -1,13 +1,16 @@
 # 基于Python开发的B2B企业英文网站
 
 
-> 基于React+django开发的b2b企业网站（大部分代码使用AI编写），适用场景包括外贸独立站、企业官网、产品展示网站等场景。自2025年9月9日起本项目不再维护。
+> 基于Python开发的b2b企业网站（大部分代码使用AI编写），适用场景包括外贸独立站、企业官网、产品展示网站等场景。
 
 
 ## 在线演示
 
 演示地址：[https://010.fktool.com](https://010.fktool.com)
 
+## 视频教程
+
+https://www.youtube.com/watch?v=i39VxDO_fiE
 
 ## 开发环境
 

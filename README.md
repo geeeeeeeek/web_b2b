@@ -8,9 +8,6 @@
 
 演示地址：[https://010.fktool.com](https://010.fktool.com)
 
-## 视频教程
-
-https://www.youtube.com/watch?v=i39VxDO_fiE
 
 ## 开发环境
 
@@ -192,3 +189,9 @@ server {
 **4. 后台管理的默认账号密码是？**
 
 答：管理员账号密码是：admin123 / admin123
+
+
+## 视频教程
+
+https://www.youtube.com/watch?v=i39VxDO_fiE
+

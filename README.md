@@ -32,6 +32,17 @@
 2. MySQL 5.7 [下载地址](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-5.7.44.0.msi)
 3. Node [下载地址](https://nodejs.org/dist/v18.20.2/node-v18.20.2-x64.msi)
 
+### 服务器准备
+
+搬瓦工服务器入口：[https://bwh81.net](https://bwh81.net/aff.php?aff=79811)
+
+*建议选择2GB内存以上配置*
+
+### 域名准备
+
+Namesilo域名申请入口：[https://www.namesilo.com](https://www.namesilo.com/?rid=0ac5797ay)
+*优惠码（Tim2026）*
+
 ### 后端运行步骤
 
 (1) 安装依赖，cd进入server目录下，执行
